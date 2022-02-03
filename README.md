@@ -6,8 +6,6 @@ _**Analyze your data easily**_
 
 ## Tool Description 
 
-Data Storyteller is an AI based tool that can take a data set, identify patterns in the data, can interpret the result, and can then produce an output story that is understandable to a business user based on the context. It is able to pro-actively analyse data on behalf of users and generate smart feeds using natural language generation techniques which can then be consumed easily by business users with very less efforts. The application has been built keeping in mind a rather elementary user and is hence, easily usable and understandable. This also uses a **multipage implementation** of Streamlit Library using Class based pages. 
-
 Datama is a tool that can take a dataset, and used them to produce the exploratory data analysis.
 
 ## Features 
