@@ -1,1 +1,34 @@
+![datama](https://github.com/aimanraz/datama-streamlit/blob/master/Banner.png)
+
+# Datama 
+
+_**Analyze your data easily**_ 
+
+## Tool Description 
+
+Data Storyteller is an AI based tool that can take a data set, identify patterns in the data, can interpret the result, and can then produce an output story that is understandable to a business user based on the context. It is able to pro-actively analyse data on behalf of users and generate smart feeds using natural language generation techniques which can then be consumed easily by business users with very less efforts. The application has been built keeping in mind a rather elementary user and is hence, easily usable and understandable. This also uses a **multipage implementation** of Streamlit Library using Class based pages. 
+
+Datama is a tool that can take a dataset, and used them to produce the exploratory data analysis.
+
+## Features 
+
+Given data/analytics output, the tool can:-
+
+- Generate reports understandable to a business user with interactive and intuitive interface when starting data analysis.
+- Provide a visualization feature with some important chart based on the user input.
+
+## Example of the web app
+
+The application also uses Streamlit the implementation with heroku deployment. The UI of the application can be seen here. The application is divided into multiple sidebar with side-sub-bar for EDA options.
+
+![UI of the application](https://github.com/aimanraz/streamlit-first/blob/master/img/ui-snapshot.JPG)
+
+## Technology Stack 
+
+1. Python 
+2. Streamlit 
+3. Pandas
+4. Scikit-Learn
+5. Matplotlib
+6. Seaborn
 
