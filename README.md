@@ -3,7 +3,8 @@
 # Datama 
 
 _**Analyze your data easily**_
-![Link to Web Application](https://datama-streamlit.herokuapp.com/)
+
+[Link to Web Application](https://datama-streamlit.herokuapp.com/)
 
 ## Tool Description 
 
