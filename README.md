@@ -23,12 +23,4 @@ The application also uses Streamlit the implementation with heroku deployment. T
 
 ![UI of the application](https://github.com/aimanraz/streamlit-first/blob/master/img/ui-snapshot.JPG)
 
-## Technology Stack 
-
-1. Python 
-2. Streamlit 
-3. Pandas
-4. Scikit-Learn
-5. Matplotlib
-6. Seaborn
 
